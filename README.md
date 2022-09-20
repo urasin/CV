@@ -4,7 +4,7 @@ Shinsuke Urase's Curriculum Vitae
 |key|value|
 |----|----|
 |生息地|東京都 渋谷区|
-|HP|[株式会社マージ](https://merge.asia) 個人で法人をやっております。|
+|HP|[株式会社マージ](https://merge.asia) 一人の法人をやっております。|
 |年数|8年以上 |
 |お問い合わせ| [こちら](https://forms.gle/nah3tJv2sjrqJB4L7)から気軽にご連絡いただければ。|
 
