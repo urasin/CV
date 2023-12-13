@@ -19,7 +19,7 @@ Shinsuke Urase's Curriculum Vitae
 
 ### 言語
 
-Ruby | Python | Go | JavaScript
+Ruby | Python | JavaScript
 
 ### フレームワーク等
 
